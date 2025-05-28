@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://yourdomain.github.io/sitemap.xml
+Sitemap: https://roblotools.github.io/sitemap.xml
 
 # Crawl delay (optional, be respectful to search engines)
 Crawl-delay: 1
